@@ -697,7 +697,7 @@ body {
 
 .input-checkbox:checked + .label-checkbox > .checkbox-span {
   background-color: #404bbf;
-  border: 1px solid #404bbf;
+  border: none;
   fill: #f4f4fd;
 }
 
