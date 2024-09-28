@@ -562,6 +562,10 @@ body {
   margin-bottom: 8px;
 }
 
+.modal-forma-textarea {
+  margin-bottom: 16px;
+}
+
 .modal-close-batton {
   display: flex;
   align-items: center;
